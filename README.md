@@ -17,4 +17,4 @@ proc princomp data=WORK.IMPORT plots(only ncomp=3)=(scree score (ellipse
 		policy_annual_premium umbrella_limit total_claim_amount;
 run;
 
-#Principal component analysis of some possible factors in a claim's payout
+#Principal component analysis of some possible factors of an insured member's risk profile
