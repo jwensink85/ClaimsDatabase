@@ -1,4 +1,4 @@
-#Mod8 Homework Scratchpad, SAS project for principal component analysis regarding factors present in insurance premium risk pricing. Risk factors are identified for use in a premium pricing model
+SAS project for principal component analysis regarding factors present in insurance premium risk pricing. Risk factors are identified for use in a premium pricing model
 
 FILENAME REFFILE '/folders/myfolders/CSV Dataset Claims.csv';
 PROC IMPORT DATAFILE=REFFILE
